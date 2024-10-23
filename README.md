@@ -1,16 +1,16 @@
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
-<p align="left">- Student at Infinity School<br>- Full Stack Dev<br>- QA Analyst<br>- Gamification Design</p>
+<p align="center">- Student at Infinity School<br>- Full Stack Dev<br>- QA Analyst<br>- Gamification Design</p>
 
 ###
 
-<p align="left">Techs</p>
+<h2 align="center">Techs</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
@@ -36,11 +36,11 @@
 
 ###
 
-<h3 align="left">Social Media</h3>
+<h3 align="center">Social Media</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/oemanuelmaiaa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
