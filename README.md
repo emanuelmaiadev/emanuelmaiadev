@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">- Student at Infinity School<br>- Full Stack Dev<br>- QA Analyst<br>- Gamification Design</p>
+<p align="center">- Studant at Infinity School<br>- Full Stack Dev<br>- QA Analyst<br>- Gamification Design</p>
 
 ###
 
